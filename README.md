@@ -1,4 +1,4 @@
-#This module is part of data processing of an environmental chemical fate model (Gridded-SoilPlusVeg)
+# This module is part of data processing of an environmental chemical fate model (Gridded-SoilPlusVeg)
 
 Results obtained in from the model are saved into a .csv file on an hourly basis
 
